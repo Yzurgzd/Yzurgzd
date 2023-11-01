@@ -1,24 +1,75 @@
-![Logo](./assets/GitHubHeader.png)
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-### Languages and Tools
+###
 
-![Python](https://shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://shields.io/badge/-Django-ffffff?style=for-the-badge&logo=django&logoColor=092d1f)
-![DRF](https://shields.io/badge/-DRF-ffffff?style=for-the-badge&logo=django&logoColor=7F2D2D)
-![Celery](https://shields.io/badge/-Celery-ffffff?style=for-the-badge&logo=celery&logoColor=B6DE64)
-![JavaScript](https://shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=EFD81D)
-![React](https://shields.io/badge/-React.js-ffffff?style=for-the-badge&logo=react&logoColor=04d1f7)
-![Next](https://shields.io/badge/-NEXT.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000)
-![HTML](https://shields.io/badge/-HTML-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css-wizardry&logoColor=1572B6)
-![SASS](https://shields.io/badge/-SASS-ffffff?style=for-the-badge&logo=sass&logoColor=CC6699)
-![PostgreSQL](https://shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=31648C)
-![MySQL](https://shields.io/badge/-MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Redis](https://shields.io/badge/-Redis-ffffff?style=for-the-badge&logo=redis&logoColor=C02E2A)
-![Docker](https://shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2391E6)
-![NGINX](https://shields.io/badge/-NGINX-ffffff?style=for-the-badge&logo=nginx&logoColor=019243)
-![GIT](https://shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
+<div align="center">
+  <a href="https://t.me/another993" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-### Contact
+###
 
-[![Telegram](https://shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/another993)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yzurgzd.Yzurgzd&left_color=slategrey&right_color=dodgerblue"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Rinat 👋<br><br>- 🔭  I’m working as a backend Django developer, specializing in building web applications using the Django REST Framework. I have experience in designing and implementing RESTful APIs, working with databases, and optimizing application performance.<br>- 📚  I'm currently learning about the latest advancements in Django and Python, as I believe in continuous self-improvement and staying up-to-date with industry best practices. I'm also exploring new technologies and tools to enhance my skill set.<br>- ⚡ In my free time, I enjoy to work on personal coding projects to experiment with new ideas and techniques.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yzurgzd&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
