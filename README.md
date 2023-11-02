@@ -8,6 +8,9 @@
   <a href="https://t.me/another993" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
   </a>
+  <a href="mailto:galievr469gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Rinat 👋<br><br>- 🔭  I’m working as a backend Django developer, specializing in building web applications using the Django REST Framework. I have experience in designing and implementing RESTful APIs, working with databases, and optimizing application performance.<br>- 📚  I'm currently learning about the latest advancements in Django and Python, as I believe in continuous self-improvement and staying up-to-date with industry best practices. I'm also exploring new technologies and tools to enhance my skill set.<br>- ⚡ In my free time, I enjoy to work on personal coding projects to experiment with new ideas and techniques.</p>
+<p align="left">I'm Rinat Galiev 👋<br><br>- 🔭  I’m working as a backend Django developer, specializing in building web applications using the Django REST Framework. I have experience in designing and implementing RESTful APIs, working with databases, and optimizing application performance.<br>- 📚  I'm currently learning about the latest advancements in Django and Python, as I believe in continuous self-improvement and staying up-to-date with industry best practices. I'm also exploring new technologies and tools to enhance my skill set.<br>- ⚡ In my free time, I enjoy to work on personal coding projects to experiment with new ideas and techniques.</p>
 
 ###
 
@@ -69,7 +72,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Yzurgzd&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yzurgzd&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
